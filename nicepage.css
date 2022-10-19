@@ -37973,6 +37973,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-image-2 {
   min-height: 120px;
+  background-position: 50% 50%;
 }
 
 .u-footer .u-container-layout-2 {
@@ -38027,7 +38028,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-image-2 {
-    background-position: 50% 50%;
     min-height: 99px;
   }
 
