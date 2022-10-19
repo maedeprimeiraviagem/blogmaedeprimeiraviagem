@@ -176,21 +176,21 @@
 
   .u-section-1 .u-text-1 {
     font-size: 1.875rem;
-    width: auto;
-    margin-left: 35px;
-    margin-right: 35px;
+    width: 307px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-1 .u-text-2 {
-    width: auto;
-    margin-left: 35px;
-    margin-right: 35px;
+    width: 307px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-1 .u-btn-1 {
     font-size: 0.75rem;
-    margin-top: 29px;
-    margin-left: 35px;
+    margin-top: 28px;
+    margin-left: 51px;
     padding-right: 42px;
     padding-left: 41px;
   }

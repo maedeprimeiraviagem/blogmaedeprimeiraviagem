@@ -37943,9 +37943,10 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    width: 340px;
-    height: 32px;
-    margin: 24px 0 42px;
+    width: 280px;
+    height: 26px;
+    margin-top: 36px;
+    margin-bottom: 36px;
   }
 }
  .u-footer {
